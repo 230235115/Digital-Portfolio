@@ -14,13 +14,13 @@ Each section highlights a key learning area with **evidence** of my work and a *
 
 ## 🌟 Portfolio Overview
 
-| # | Module | Focus Area | Link |
-|---|---------|-------------|------|
-| 1 | 💬 Business Communication | Developing clarity, tone, and confidence in workplace communication | [View Section](./01_Business_Communication) |
-| 2 | 🎙️ Interview Skills | Preparing and performing effectively in real-world interviews | [View Section](./02_Interview_Skills) |
-| 3 | 🎥 Mock Interview | Applying learned techniques in a simulated interview setting | [View Section](./03_Mock_Interview) |
-| 4 | 🌐 Professional Networking | Building professional connections and creating an authentic online presence | [View Section](./04_Professional_Networking) |
-| 5 | 🤝 Workplace Etiquette | Understanding professionalism, ethics, and behaviour in a work environment | [View Section](./05_Workplace_Etiquette) |
+| # | Module | Focus Area |
+|---|---------|-------------|
+| 1 | 💬 Business Communication | Developing clarity, tone, and confidence in workplace communication | 
+| 2 | 🎙️ Interview Skills | Preparing and performing effectively in real-world interviews | 
+| 3 | 🎥 Mock Interview | Applying learned techniques in a simulated interview setting | 
+| 4 | 🌐 Professional Networking | Building professional connections and creating an authentic online presence | 
+| 5 | 🤝 Workplace Etiquette | Understanding professionalism, ethics, and behaviour in a work environment |
 
 ---
 
